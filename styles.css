@@ -1,0 +1,19 @@
+/*
+Colores de mi sitio Web
+primario: #354649
+secundario: #6C7A89
+light: #A3C6C4
+info: #E0E7E9
+*/
+
+.text-light{
+    color: #A3C6C4;
+}
+
+.text-center{
+    
+}
+
+.bg-primary{
+    background-color: #354649;
+}
