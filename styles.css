@@ -11,9 +11,25 @@ info: #E0E7E9
 }
 
 .text-center{
-    
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-primary{
+    color: #354649;
+}
+
+.text-white{
+    color: white;
 }
 
 .bg-primary{
     background-color: #354649;
+}
+
+.bg-info{
+    background-color: #E0E7E9;
 }
